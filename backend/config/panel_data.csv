@@ -1,0 +1,30 @@
+Network,Building,Notes,kWp,No_panels,Panel,Inverter,Optimsiers,Campus,Grouping,MeterKey
+Main Network,David Myers (DM),NULL,"167.97 ",509,"Trina 330W ","3 x SolarEdge SE50K ","255 x P730 ","Bundoora ",NULL,NULL
+Main Network,Donald Whitehead (DW),"DW (34kW), MAR (91.08kW) & SS (78.21)","203.29 ",617,"Trina 330W ","3 x Soalr Egde  ","313 x 700 ","Bundoora ",NULL,NULL
+Main Network,Health Sciences 1 (HS1),NULL,"77.22 ",234,"Trina 330W ","2 x SolarEdge SE25K + 1 x SolarEdge SE15K ","117 x P730 ","Bundoora ",NULL,NULL
+Main Network,Health Sciences 2 (HS2),NULL,"39.27 ",119,"Trina 330W ","2 x SolarEdge SE17K ","61 x P730 ","Bundoora ",NULL,NULL
+Main Network,Health Sciences 3 (HS3),NULL,"72.27 ",219,"Trina 330W ","1 x SolarEdge SE82.8K ","110 x P730 ","Bundoora ",NULL,NULL
+Main Network,Library (L),NULL,"384.12 ",1164,"Trina 330W ","4 x SolarEdge SE82.8K ","584 x P730 ","Bundoora ",NULL,NULL
+Main Network,LIMS1,NULL,"38.94 ",118,"Trina 330W ","1 x SolarEdge SE17K + 1 x SolarEdge SE15K ","59 x P730 ","Bundoora ",NULL,NULL
+Main Network,R L Reid (RLR),NULL,"49.83 ",151,"Trina 330W ","1 x SolarEdge SE27.6K + 1 x SolarEdge SE15K ","76 x P730 ","Bundoora ",NULL,NULL
+Main Network,Sylvia Walton (SW),NULL,"51.15 ",155,"Trina 330W ","1 x SolarEdge SE25K + 1 x SolarEdge SE17K ","78 x P730 ","Bundoora ",NULL,NULL
+Main Network,The Learning Commons (TLC),NULL,"56.76 ",172,"Trina 330W ","1 x SolarEdge SE50K ","86 x P730 ","Bundoora ",NULL,NULL
+Main Network,West Lecture Theatre (WLT),NULL,"84.81 ",257,"Trina 330W ","1 x SolarEdge SE82.8K ","129 x P730 ","Bundoora ",NULL,NULL
+Main Network,Humanities  (HU1+HU2),NULL,"83.49 ",253,"Trina 330W ","1 x SolarEdge SE82.8K ","128 x P730 ","Bundoora ",NULL,NULL
+Main Network,Beth Gleeson (BG),NULL,"66.00 ",200,"Trina 330W ","2 x SolarEdge SE27.6K ","100 x P730 ","Bundoora ",NULL,NULL
+Main Network,Physical Sciences 2 (PS2),NULL,"35.64 ",108,"Trina 330W ","2 x SolarEdge SE15K ","58 x P730 ","Bundoora ",NULL,NULL
+Main Network,Peribolos West (PW),NULL,"87.78 ",266,"Trina 330W ","1 x SolarEdge SE82.8K ","133 x P730 ","Bundoora ",NULL,NULL
+Main Network,Peribolos East (PE),NULL,"76.23 ",231,"Trina 330W ","2 x SolarEdge SE25K + 1 x SolarEdge SE15K ","116 x P730 ","Bundoora ",NULL,NULL
+Main Network,Campus Services 1 (CS1),NULL,"45.26 ",146,"Trina 310W ","1 x SolarEdge SE25K + 1 x SolarEdge SE15K ","77 x P730 ","Bundoora ",NULL,NULL
+Main Network,"Bus Stop ",NULL,"24.00 ",NULL,"TBD ","Enphase ",NULL,"Bundoora ",NULL,NULL
+College Network,"Wildlife Centre ",NULL,18.60,60,Trina 310W,1 x SolarEdge SE17K,32 x P730,"Bundoora ",NULL,NULL
+College Network,Menzies College (MC),NULL,"42.16 ",136,"Trina 310W ","2 x SolarEdge SE17K ","74 x P700 ","Bundoora ",NULL,NULL
+College Network,Union Building (U),NULL,"47.74 ",154,"Trina 310W ","1 x SolarEdge SE25K + 1 x SolarEdge SE15K ","77 x P700 ","Bundoora ",NULL,NULL
+College Network,Health Sciences Clinic (HSC),NULL,"58.90 ",190,"Trina 310W ","1 x SolarEdge SE50K ","97 x P700 ","Bundoora ",NULL,NULL
+College Network,Sports Park,NULL,"539.80 ",1240.92,"SunpowerSPR-E20-435-COM ","5 X ABB ","NA ","Bundoora ",NULL,NULL
+College Network,Childcare Centre,NULL,"30.00 ",115.38,"TBD ","SMA ","NA ","Bundoora ",NULL,NULL
+College Network,New accomodation Building,NULL,"TBD ~20kW ",NULL,"To be modelled when info avail ",NULL,NULL,"Bundoora ",NULL,NULL
+Independent Network,Caval building - Carm 1,NULL,94.24,304,Trina 310W,1 x SolarEdge SE82.8K,152 x P700,"Bundoora ",NULL,NULL
+Independent Network,Caval building - Carm 2,NULL,132.06,426,Trina 310W,1 x SolarEdge SE82.8K + 1 x SolarEdge SE27.6K,215 x P700,"Bundoora ",NULL,NULL
+Independent Network,RD1,NULL,21.39,69,Trina 310W,1 x SolarEdge SE17K,35 x P700,"Bundoora ",NULL,NULL
+Independent Network,RD2,NULL,29.45,95,Trina 310W,1 x SolarEdge SE25K,48 x P700,"Bundoora ",NULL,NULL

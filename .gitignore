@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.tsbuildinfo
+# The repo root ignores *.csv; the site registry and events log are config, not data.
+
+data/
